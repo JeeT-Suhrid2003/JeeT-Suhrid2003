@@ -1,44 +1,40 @@
-# Hi, I'm JeeT Suhrid 👋
+# Hi, I'm Suhrid Ghosh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Infrastructure+%26+Observability+Engineer;Cloud+Delivery;Telemetry+%26+Reliability;Open+for+opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Focus-Observability-0EA5E9?style=for-the-badge&logo=linux&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Cloud-DevOps-22C55E?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud & DevOps" />
+  <img src="https://img.shields.io/badge/Systems-Containers-7C3AED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Containers" />
+  <img src="https://img.shields.io/badge/Automation-CI%2FCD-F59E0B?style=for-the-badge&logo=githubactions&logoColor=black" alt="CI/CD" />
 </p>
 
 ## About Me
 
-I’m a passionate developer who enjoys building scalable software, solving real-world problems, and continuously improving my technical skills. I work across systems and application-level development with a strong interest in performance, clean architecture, and efficient engineering workflows.
+I’m an Infrastructure and Observability Engineer focused on telemetry, reliable systems, and cloud delivery. I enjoy building maintainable automation, improving system health, and turning complex operational data into clear, actionable insight.
 
-- 🔭 Currently exploring new technologies and engineering challenges
-- 🌱 Learning more about software design, optimization, and modern tooling
-- 💡 Interested in problem solving, automation, and impactful software
-- ⚡ Always looking for opportunities to create meaningful projects
+- 🔭 Building reliable, observable, and scalable cloud systems
+- 🌱 Improving monitoring, deployment workflows, and containerized platforms
+- 💡 Interested in incident response, automation, and engineering resilience
+- ⚡ Passionate about clean tooling, efficient operations, and dependable delivery
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ---
@@ -57,12 +53,6 @@ I’m a passionate developer who enjoys building scalable software, solving real
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeT-Suhrid2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-### Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JeeT-Suhrid2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
 ---
 
 ## Connect
@@ -71,7 +61,10 @@ I’m a passionate developer who enjoys building scalable software, solving real
   <a href="https://github.com/JeeT-Suhrid2003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:jeetsuhrid2003@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/suhrid-ghosh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suhridghosh2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -83,6 +76,5 @@ I’m a passionate developer who enjoys building scalable software, solving real
 <hr>
 
 <p align="center">
-  <i>Built with passion, curiosity, and a love for clean code.</i>
+  <i>Built with curiosity, automation, and a focus on dependable systems.</i>
 </p>
-
